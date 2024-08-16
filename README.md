@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Space-Agents/Space-Agents/blob/main/GIF%20Banner%20Github.gif)
 <h1 align="center">Hi 👋, I'm Prateek Biswas</h1>
 <h3 align="center">A <b>REACT</b> Developer from India</h3>
 
