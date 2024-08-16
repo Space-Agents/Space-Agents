@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prateek Biswas</h1>
 <h3 align="center">A frontend(REACT) developer from India</h3>
 
+- 🤝 Managed **50+ client International** interactions for freelance project
+
 - 🌱 I have delivered tailored online solutions using **MERN stack, enhancing client satisfaction by 25%**
 
 - 👯 I’m looking to collaborate on **US Clients**
-
-- 🤝 Managed 50+ client International interactions **for freelance project**
 
 - 📝 All of my projects are available at [https://github.com/Space-Agents?tab=repositories](https://github.com/Space-Agents?tab=repositories)
 
