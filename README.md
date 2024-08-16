@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Biswas</h1>
 <h3 align="center">A <b>REACT</b> Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Space-Agents/Space-Agents/blob/main/GIF%20Photo%20Github.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/Space-Agents/Space-Agents/blob/main/GIF%20Photo%20Github.gif">
 
 - 🤝 Managed **50+ client International** interactions for freelance project.
 
