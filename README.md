@@ -3,11 +3,11 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🤝 Managed **50+ client International** interactions for freelance project
+- 🤝 Managed **50+ client International** interactions for freelance project.
 
-- 🌱 Delivered tailored online solutions using **MERN stack, enhancing client satisfaction by 25%**
+- 🌱 Delivered tailored online solutions using **MERN stack, enhancing client satisfaction by 25%.**
 
-- 👯 I’m looking to collaborate with **US & Indian Clients**
+- 👯 I’m looking to collaborate with **US & Indian Clients.**
 
 - 📫 How to reach me **hardistworker@gmail.com**
   
