@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Prateek Biswas</h1>
-<h3 align="center">A frontend(REACT) developer from India</h3>
+<h3 align="center">A REACT developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🤝 Managed **50+ client International** interactions for freelance project
 
 - 🌱 Delivered tailored online solutions using **MERN stack, enhancing client satisfaction by 25%**
 
-- 👯 I’m looking to collaborate on **US Clients**
+- 👯 I’m looking to collaborate with **US & Indian Clients**
 
-- 📝 All of my projects are available at [https://github.com/Space-Agents?tab=repositories](https://github.com/Space-Agents?tab=repositories)
-
+- 📫 How to reach me **hardistworker@gmail.com**
+  
 - 👨‍💻 I regularly post videos on [https://www.youtube.com/@STAY_CURIOUS_](https://www.youtube.com/@STAY_CURIOUS_)
 
 - 💬 **TECHNICAL SKILLS** React, JAVA, Javascript, Typescript, Next.js, Tailwind CSS, HTML, MongoDB, SQL.
 
-- 📫 How to reach me **hardistworker@gmail.com**
+- 📝 All of my projects are available at [https://github.com/Space-Agents?tab=repositories](https://github.com/Space-Agents?tab=repositories)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TJ21CMwIyGNNXrUiDVPOGeWXd2RCQ4FI/view?usp=drivesdk](https://drive.google.com/file/d/1TJ21CMwIyGNNXrUiDVPOGeWXd2RCQ4FI/view?usp=drivesdk)
 
