@@ -3,7 +3,7 @@
 
 - 🤝 Managed **50+ client International** interactions for freelance project
 
-- 🌱 I have delivered tailored online solutions using **MERN stack, enhancing client satisfaction by 25%**
+- 🌱 Delivered tailored online solutions using **MERN stack, enhancing client satisfaction by 25%**
 
 - 👯 I’m looking to collaborate on **US Clients**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 I regularly post videos on [https://www.youtube.com/@STAY_CURIOUS_](https://www.youtube.com/@STAY_CURIOUS_)
 
-- 💬 TECHNICAL SKILLS **React,JAVA, Javascript, Typescript, Next.js, Tailwind CSS,HTML, MongoDB, SQL.**
+- 💬 **TECHNICAL SKILLS** React, JAVA, Javascript, Typescript, Next.js, Tailwind CSS, HTML, MongoDB, SQL.
 
 - 📫 How to reach me **hardistworker@gmail.com**
 
